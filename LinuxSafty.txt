@@ -1,0 +1,34 @@
+
+ * =====================================================================================
+ *
+ *       				LinuxSafty
+ *
+ *
+ *    Description:  A documented aproach to securing your Linux Box
+ *
+ *        Version:  1.0
+ *        Created:  08/15/2022 12:04:08 AM
+ *       Revision:  none
+ *
+ *         Author:  Rick Navarro
+ *
+ *   Organization:  NAVCOM 
+ *
+ * =====================================================================================
+
+
+TABLE OF CONTENTS
+
+
+Encrypt your Hard Drive
+
+At instalation time, most distros will have the option to encrypt your HDD. Do it! You know
+you can get access to the data on a PC by simple using a bootable pendrive. This way your information will be more secure.
+
+
+Super user.
+
+I recommend setting a separate password for root from your account password. Also, if several people use the same machine, do take the time to see if any of them require access to sudo. 
+
+
+ 
